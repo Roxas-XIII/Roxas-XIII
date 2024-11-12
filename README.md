@@ -5,12 +5,18 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br>
-<h2 text-align: justify >Computer Science Engineer with solid experience in web design and development, including preventive maintenance and technical support on computer equipment, design of intuitive graphical interfaces, back-end logic development, efficient database management, including core functionalities. Advanced technical skills in languages such as JavaScript, Python, HTML, CSS, in addition to the use of frameworks such as bootstrap 5 and Flask. I stand out for my competencies in achievement orientation, analytical skills, problem solving, creativity and teamwork. I am looking for roles such as front-end, back-end and related areas.></h2>
+<p text-align: justify >Computer Science Engineer with solid experience in web design and development, including preventive maintenance and technical support on computer equipment, design of intuitive graphical interfaces, back-end logic development, efficient database management, including core functionalities. Advanced technical skills in languages such as JavaScript, Python, HTML, CSS, in addition to the use of frameworks such as bootstrap 5 and Flask. I stand out for my competencies in achievement orientation, analytical skills, problem solving, creativity and teamwork. I am looking for roles such as front-end, back-end and related areas.</p>
 
-- 🌱 I’m currently exploring Blockchain with a big interest in Smart Contracts.
-- :technologist: I love using Software as a solution for every `Problem`.
+- 🌱 I am currently exploring python with a strong interest in software development, data science and machine learning.
+- :technologist: I love to use Software as a solution for every `Problem`.
 - :nerd_face: Always `learning new things`.
 - 💬 Ask me about anything, I love to answer!
-- :thinking: I’m currently open for a new `job opportunity`.
-- Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/nitin-dahiya/) 🏆.
+- :thinking: I am currently open for a new `job opportunity`.
+- 🤝 Feel free to contact me at [LinkedIn](https://www.linkedin.com/in/nitin-dahiya/) 🏆.
+- 🌐 Also, I love content based on video games even if it is related to their history and development, I usually stream on twitch, listen to music from a variety of genres.
+- ⚡ Also, in the future, I plan to learn about game development and create indie games and share ideas.
+- 📫 contact me at: josephmora08@outlook.com
 <br>
+
+
+
