@@ -72,3 +72,9 @@
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
 
+
+<h2  style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=Roxas-XIII&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Roxas-XIII)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Roxas-XIII&theme=material-palenight)](https://github.com/Roxas-XIII)
+</div>
