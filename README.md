@@ -13,7 +13,7 @@
 - 💬 Ask me about anything, I love to answer!
 - :thinking: I am currently open for a new `job opportunity`.
 - 🤝 Feel free to contact me at [LinkedIn](https://www.linkedin.com/in/joseph-mora-quimis-312604260/) 🏆.
-- 🌐 Also, I love content based on video games even if it is related to their history and development, I usually stream on twitch, listen to music from a variety of genres.
+- 🌐 Also, I love content based on 🎮 video games even if it is related to their history and development, I usually stream on twitch, 🎵 listen to music from a variety of genres.
 - ⚡ Also, in the future, I plan to learn about game development and create indie games and share ideas.
 - 📫 contact me at: josephmora08@outlook.com
 <br>
